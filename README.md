@@ -187,7 +187,6 @@ This project is developed as a game development portfolio piece.
 
 ## 🙏 Credits
 
-- **Developer**: Kecek05
 - **Engine**: Unity Technologies
 - **Assets**: Custom 3D models and Unity Asset Store resources
 
